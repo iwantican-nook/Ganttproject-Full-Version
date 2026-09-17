@@ -243,4 +243,4 @@ This repository serves as the official landing page for GanttProject. The softwa
 **Get the most recent version of GanttProject today!**
 
 ---
-**Last updated:** 2026-09-17 19:32:55 UTC
+**Last updated:** 2026-09-17 22:40:06 UTC
